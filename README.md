@@ -1,17 +1,32 @@
-# Hi, I'm Rym
+# Rym
+
+Full-stack engineer building practical AI systems, automation tools, and product workflows.
+
+---
 
 ## English
 
-I'm a full-stack developer building AI chatbots, reservation/payment systems, and OCR-based web applications.
-I enjoy turning real business workflows into practical web services and automation tools.
+I build software at the point where conversation becomes workflow.
 
-### What I Build
+Chatbots that understand intent. Reservation systems that respect time. Payments that close the loop. Dashboards that make operations visible. OCR tools that turn images into structured action.
+
+I like building products where the interface feels simple, but the system behind it is carefully wired: clear APIs, reliable data models, thoughtful integrations, and automation that quietly removes friction from real work.
+
+### What Kind of Engineer I Am
+
+- Product-minded full-stack engineer
+- Strong at connecting frontend, backend, database, and external APIs
+- Interested in AI features that solve practical business problems
+- Comfortable moving from prototype to usable internal product
+- Careful about workflows, edge cases, and real user operations
+
+### Engineering Focus
 
 - AI chatbot systems
-- Reservation and payment platforms
-- Admin dashboards
-- OCR and image recognition tools
-- Business automation apps
+- Reservation, payment, and calendar workflows
+- Admin dashboards and internal tools
+- OCR and image recognition applications
+- Business automation and API integrations
 
 ### Tech Stack
 
@@ -19,22 +34,33 @@ I enjoy turning real business workflows into practical web services and automati
 - Backend: Node.js, Express
 - Database: PostgreSQL, MySQL
 - AI/API: OpenAI, LangChain, Google Cloud Vision
-- Integration: Stripe, Google Calendar, LINE Messaging API
+- Integrations: Stripe, Google Calendar, LINE Messaging API
 
 ---
 
 ## 日本語
 
-AIチャットボット、予約・決済システム、OCRを活用したWebアプリを開発しているフルスタック開発者です。
-実際の業務フローを、使いやすいWebサービスや自動化ツールとして形にすることに関心があります。
+会話が業務フローに変わる、その境目にあるソフトウェアを作っています。
 
-### 作っているもの
+意図を読み取るチャットボット。時間を扱う予約システム。流れを完結させる決済。現場の状態を見える化するダッシュボード。画像を構造化されたアクションに変えるOCRツール。
+
+表面はシンプルに、裏側は丁寧に設計されたプロダクトが好きです。明確なAPI、信頼できるデータ設計、自然につながる外部連携、そして実際の仕事から摩擦を減らす自動化に関心があります。
+
+### どんなエンジニアか
+
+- プロダクト視点を持つフルスタックエンジニア
+- フロントエンド、バックエンド、DB、外部APIをつなぐ実装が得意
+- 実務課題を解決するAI機能に関心があります
+- プロトタイプから実際に使える社内ツールまで形にできます
+- 業務フロー、例外ケース、運用のしやすさを大切にします
+
+### 開発領域
 
 - AIチャットボットシステム
-- 予約・決済プラットフォーム
-- 管理画面・ダッシュボード
-- OCR・画像認識ツール
-- 業務自動化アプリ
+- 予約・決済・カレンダー連携
+- 管理画面・社内ツール
+- OCR・画像認識アプリケーション
+- 業務自動化・API連携
 
 ### 技術スタック
 
@@ -42,22 +68,33 @@ AIチャットボット、予約・決済システム、OCRを活用したWebア
 - Backend: Node.js, Express
 - Database: PostgreSQL, MySQL
 - AI/API: OpenAI, LangChain, Google Cloud Vision
-- Integration: Stripe, Google Calendar, LINE Messaging API
+- Integrations: Stripe, Google Calendar, LINE Messaging API
 
 ---
 
 ## 한국어
 
-AI 챗봇, 예약/결제 시스템, OCR 기반 웹앱을 만드는 풀스택 개발자입니다.
-실제 비즈니스 흐름을 웹 서비스와 자동화 도구로 구현하는 데 관심이 많습니다.
+저는 대화가 업무 흐름으로 바뀌는 지점의 소프트웨어를 만듭니다.
 
-### 만들고 있는 것들
+의도를 이해하는 챗봇, 시간을 다루는 예약 시스템, 흐름을 완성하는 결제, 운영 상태를 보여주는 대시보드, 이미지를 구조화된 행동으로 바꾸는 OCR 도구를 만듭니다.
+
+겉으로는 단순하지만 안쪽은 정교하게 연결된 제품을 좋아합니다. 명확한 API, 신뢰할 수 있는 데이터 모델, 자연스럽게 이어지는 외부 연동, 실제 업무의 마찰을 줄이는 자동화에 관심이 많습니다.
+
+### 나는 어떤 엔지니어인가
+
+- 제품 관점으로 생각하는 풀스택 엔지니어
+- 프론트엔드, 백엔드, 데이터베이스, 외부 API를 연결하는 구현에 강함
+- 실제 비즈니스 문제를 해결하는 AI 기능에 관심이 많음
+- 프로토타입에서 실제로 쓸 수 있는 내부 도구까지 구현 가능
+- 업무 흐름, 예외 상황, 운영 편의성을 중요하게 생각함
+
+### 개발 관심 영역
 
 - AI 챗봇 시스템
-- 예약/결제 플랫폼
-- 관리자 대시보드
-- OCR 및 이미지 인식 도구
-- 업무 자동화 앱
+- 예약, 결제, 캘린더 연동
+- 관리자 대시보드 및 내부 도구
+- OCR 및 이미지 인식 애플리케이션
+- 업무 자동화와 API 통합
 
 ### 기술 스택
 
@@ -65,22 +102,33 @@ AI 챗봇, 예약/결제 시스템, OCR 기반 웹앱을 만드는 풀스택 개
 - Backend: Node.js, Express
 - Database: PostgreSQL, MySQL
 - AI/API: OpenAI, LangChain, Google Cloud Vision
-- Integration: Stripe, Google Calendar, LINE Messaging API
+- Integrations: Stripe, Google Calendar, LINE Messaging API
 
 ---
 
 ## 中文
 
-我是一名全栈开发者，主要开发 AI 聊天机器人、预约/支付系统以及基于 OCR 的 Web 应用。
-我喜欢把真实的业务流程转化为实用的 Web 服务和自动化工具。
+我构建的是位于“对话变成工作流”交界处的软件。
 
-### 我正在构建的内容
+能理解意图的聊天机器人。处理时间的预约系统。让流程闭环的支付功能。让运营状态清晰可见的管理后台。把图像转化为结构化行动的 OCR 工具。
+
+我喜欢表面简单、背后却被认真连接起来的产品：清晰的 API、可靠的数据模型、自然衔接的外部集成，以及能够真正减少业务摩擦的自动化。
+
+### 我是什么样的工程师
+
+- 具备产品思维的全栈工程师
+- 擅长连接前端、后端、数据库和外部 API
+- 关注能解决实际业务问题的 AI 功能
+- 能从原型推进到可实际使用的内部产品
+- 重视工作流、边界情况和可运营性
+
+### 关注的开发方向
 
 - AI 聊天机器人系统
-- 预约与支付平台
-- 管理后台和仪表盘
-- OCR 与图像识别工具
-- 业务自动化应用
+- 预约、支付与日历工作流
+- 管理后台和内部工具
+- OCR 与图像识别应用
+- 业务自动化和 API 集成
 
 ### 技术栈
 
@@ -88,8 +136,8 @@ AI 챗봇, 예약/결제 시스템, OCR 기반 웹앱을 만드는 풀스택 개
 - Backend: Node.js, Express
 - Database: PostgreSQL, MySQL
 - AI/API: OpenAI, LangChain, Google Cloud Vision
-- Integration: Stripe, Google Calendar, LINE Messaging API
+- Integrations: Stripe, Google Calendar, LINE Messaging API
 
 ---
 
-Most of my project repositories are private, but this profile highlights the areas I work in and the kinds of products I build.
+Most of my project repositories are private to protect product code and business context. This profile shares the kinds of systems I build and the engineering values behind them.
