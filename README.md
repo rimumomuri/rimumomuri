@@ -2,7 +2,7 @@
 
 Building AI-powered workflow tools for real-world operations.
 
-I work across the stack: product UI, APIs, databases, AI integrations, payments, calendars, server setup, and internal dashboards. Most of what I build is designed to remove manual steps from everyday business workflows.
+I work across the stack: product UI, APIs, databases, AI integrations, payments, calendars, server setup, and internal dashboards. Most of what I build is designed to remove manual steps from everyday business workflows and turn scattered operations into usable systems.
 
 ## Currently Building
 
@@ -15,16 +15,16 @@ I work across the stack: product UI, APIs, databases, AI integrations, payments,
 ## Stack
 
 **Frontend**  
-React, Vue.js, Vite, JavaScript, HTML, CSS, Fabric.js
+React, Vue.js, Angular, TypeScript, JavaScript, Vite, HTML, CSS, Fabric.js
 
 **Backend**  
-Node.js, Express, PHP, Laravel, REST APIs
+Node.js, Express, PHP, Laravel, Java, Python, REST APIs
 
 **Data**  
 PostgreSQL, MySQL
 
 **AI / Automation**  
-OpenAI, LangChain, Google Cloud Vision, Claude Code
+OpenAI, LangChain, Google Cloud Vision, Claude Code, Python automation
 
 **Product / UX**  
 Figma, dashboard design, workflow mapping, internal tool UX
