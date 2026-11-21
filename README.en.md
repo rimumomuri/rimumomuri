@@ -1,52 +1,15 @@
-<p align="right">
-<a href="https://github.com/rimumomuri/rimumomuri/blob/main/README.md"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-d0d7de?style=for-the-badge" alt="日本語"></a> <a href="https://github.com/rimumomuri/rimumomuri/blob/main/README.ko.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-d0d7de?style=for-the-badge" alt="한국어"></a> <a href="https://github.com/rimumomuri/rimumomuri/blob/main/README.en.md"><img src="https://img.shields.io/badge/English-8b5cf6?style=for-the-badge" alt="English"></a>
-</p>
+<p align="right"><a href="./README.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <b>English</b></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/rym-portrait-dark-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/rym-portrait-light-still.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rym-portrait-dark.svg">
+  <img src="./assets/rym-portrait-light.svg" width="100%" alt="Monochrome pixel portrait of RYM">
+</picture>
 
-<div align="center">
+<p align="center"><strong>Turning manual work into systems.</strong></p>
+<p align="center">TypeScript · React · SwiftUI · Python · PostgreSQL</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:ec4899&height=3&section=header"/>
-
-<br/>
-
-### `RYM`
-
-<a href="https://github.com/rimumomuri">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Product+Engineer;Turning+manual+work+into+systems.;AI+%C3%97+Web+%C3%97+iOS" alt="typing"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Vue.js-1f2937?style=flat-square&logo=vuedotjs&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Angular-1f2937?style=flat-square&logo=angular&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/React_Native-1f2937?style=flat-square&logo=expo&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/SwiftUI-1f2937?style=flat-square&logo=swift&logoColor=A78BFA"/>
-<br/>
-<img src="https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/FastAPI-1f2937?style=flat-square&logo=fastapi&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Laravel-1f2937?style=flat-square&logo=laravel&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/MySQL-1f2937?style=flat-square&logo=mysql&logoColor=A78BFA"/>
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-1f2937?style=flat-square&logo=openai&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/LangChain-1f2937?style=flat-square&logo=langchain&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Claude_Code-1f2937?style=flat-square&logo=claude&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Cloud_Vision-1f2937?style=flat-square&logo=googlecloud&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Stripe-1f2937?style=flat-square&logo=stripe&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/LINE_API-1f2937?style=flat-square&logo=line&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Linux-1f2937?style=flat-square&logo=linux&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Nginx-1f2937?style=flat-square&logo=nginx&logoColor=A78BFA"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:ec4899&height=3&section=header"/>
-
-</div>
-
-<br/>
 ## &nbsp;`01` &nbsp;About
 
 I build systems that replace manual work in real-world operations.
@@ -161,7 +124,3 @@ I work and communicate with clients in Japanese, Korean, and English.
 > I care about building systems that stay in daily use, not demos that end on a slide.
 
 <br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ec4899,100:8b5cf6&height=3&section=footer"/>
-</div>
