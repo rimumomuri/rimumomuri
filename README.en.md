@@ -1,11 +1,13 @@
 <p align="right"><a href="./README.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <b>English</b></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/rym-portrait-dark-still.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/rym-portrait-light-still.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/rym-portrait-dark.svg">
-  <img src="./assets/rym-portrait-light.svg" width="100%" alt="Monochrome pixel portrait of RYM">
-</picture>
+<div align="center">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/hero-still.svg"><img src="./assets/paper/hero.svg" width="100%" alt="Rimu Momuri, software engineer. I turn manual work into software people can use."></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/heatmap-still.svg"><img src="./assets/paper/heatmap.svg" width="100%" alt="GitHub-visible contributions"></picture><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/activity-still.svg"><img src="./assets/paper/activity.svg" width="100%" alt="Monthly activity in 2026"></picture><br>
+<a href="#rym-featured-projects"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/world-1-still.svg"><img src="./assets/paper/world-1.svg" width="32%" alt="From booking to payment"></picture></a><a href="#rym-featured-projects"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/world-2-still.svg"><img src="./assets/paper/world-2.svg" width="32%" alt="From web to native apps"></picture></a><a href="#rym-featured-projects"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/world-3-still.svg"><img src="./assets/paper/world-3.svg" width="32%" alt="LLMs, RAG and OCR"></picture></a><br>
+<a name="rym-featured-projects"></a><h2>What I’m building</h2><br>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/work-1-still.svg"><img src="./assets/paper/work-1.svg" width="32%" alt="Booking &amp; payments"></picture><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/work-2-still.svg"><img src="./assets/paper/work-2.svg" width="32%" alt="Location-based app"></picture><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/paper/work-3-still.svg"><img src="./assets/paper/work-3.svg" width="32%" alt="Habit &amp; health app"></picture>
+</div>
 
 <p align="center"><strong>Turning manual work into systems.</strong></p>
 <p align="center">TypeScript · React · SwiftUI · Python · PostgreSQL</p>
